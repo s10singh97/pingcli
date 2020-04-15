@@ -1,0 +1,2 @@
+# pingcli
+Ping CLI tool
